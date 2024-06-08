@@ -2,7 +2,7 @@
 Hi there! I'm Chanyeong Jeong (정찬영), a passionate backend software engineer specializing in NodeJS and Java Spring. I have a strong interest in builing system architectures that ensure high availability and performance.
 
 ### Skills
-- Langauge: TypeScript, Java, Python, C, Go
+- Language: TypeScript, Java, Python, C, Go
 - Framework: NestJS, Spring boot
 - DB : MySQL, Redis
 - Infra 
