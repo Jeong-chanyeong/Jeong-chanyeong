@@ -6,7 +6,7 @@ Hi there! I'm Chanyeong Jeong (정찬영), a passionate backend software enginee
 - Framework: NestJS, Spring boot
 - DB : MySQL, Redis
 - Infra 
-  - On-Premise: Kubernentes, Docker, Nginx, ArgoCD, Harbor, Prometheus, Grafana, Loki 
+  - On-Premise: Kubernetes, Docker, Nginx, ArgoCD, Harbor, Prometheus, Grafana, Loki 
   - Cloud: AWS 
 
 ### 🧑‍💻 School 
