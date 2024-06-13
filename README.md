@@ -7,7 +7,7 @@ Hi there! I'm Chanyeong Jeong (정찬영), a passionate backend software enginee
 - DB : MySQL, Redis
 - Infra 
   - On-Premise: Kubernetes, Docker, Nginx, ArgoCD, Harbor, Prometheus, Grafana, Loki 
-  - Cloud: AWS 
+  - Cloud: AWS Basics
 
 ### 🧑‍💻 School 
 - GangSeo High School (2012. 03 ~ 2015. 02)   
@@ -15,8 +15,8 @@ Hi there! I'm Chanyeong Jeong (정찬영), a passionate backend software enginee
   - Major in Software and Mechanical Engineering
 - System Consultant Group (2023.03 ~)
 
-### Certificates
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiyfI2y0SQmFN5cqDgIhYtRewlwVgeO47ddg&s" width="100" height="100"/>
+<!-- ### Certificates
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiyfI2y0SQmFN5cqDgIhYtRewlwVgeO47ddg&s" width="100" height="100"/> -->
 
 
 ### 🙋‍♂️ Contact with 
