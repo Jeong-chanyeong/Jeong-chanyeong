@@ -15,7 +15,6 @@ Hi there! I'm Chanyeong Jeong (정찬영), a passionate backend software enginee
 
 ### Experience
 - System Consultant Group (2023.03 ~)
-- 유니톤(Unithon) 10기 우승 (2023. 09)
 - 오픈소스 컨트리뷰션 아카데미 ArgoCD팀 멘티 (2024. 07 ~)
 ### 📑 Projects
 - [성균관대학교 시스템컨설턴트그룹 어플라이 사이트 리뉴얼](https://apply.scg.skku.ac.kr/) 개발 (2023. 06 ~ 2023. 09)
